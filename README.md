@@ -1,2 +1,2 @@
-# merge_conflicts_practice
+# second-branch
 Merge Conflicts Practice
